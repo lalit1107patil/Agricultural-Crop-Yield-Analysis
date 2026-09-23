@@ -353,7 +353,7 @@ Agricultural-Crop-Yield-Analysis/
 Add your dashboard screenshot here:
 
 ```markdown
-![Agricultural Crop Yield Analysis Dashboard](screenshots/dashboard.png)
+![Agricultural Crop Yield Analysis Dashboard](Screenshot%202026-09-23%20173505.png)
 ```
 
 ---
