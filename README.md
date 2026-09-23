@@ -400,7 +400,7 @@ This project demonstrates practical knowledge of:
 
 **Lalit Patil**
 
-B.Tech – Electronics & Communication Engineering
+B.Tech – Electronics & Computer Engineering
 
 Interested in:
 
